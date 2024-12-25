@@ -1,0 +1,4 @@
+In this task, you will develop a model to classify Iris flowers into three species—
+Setosa, Versicolor, and Virginica—based on their sepal and petal measurements. Using the classic Iris dataset, which provides measurement data for each species, your objective is to train a machine learning model capable of accurately
+categorizing flowers by species. This project serves as an introductory classification
+task, allowing you to explore fundamental machine learning concepts.
